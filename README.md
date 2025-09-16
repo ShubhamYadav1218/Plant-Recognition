@@ -1,9 +1,9 @@
 # Plant-Recognition
-🌿 ##Plant Recognition & Business Insight Tool
+🌿 ## Plant Recognition & Business Insight Tool
 
 A web-based tool that takes a text description of a plant and returns its name, uses, and potential business opportunities — designed with ethical AI principles in mind.
 
-📌 ##Features
+📌 ## Features
 
 ✅ Text-Based Plant Analysis – Enter a plant description and get instant insights.
 
@@ -42,18 +42,23 @@ Frontend displays result clearly with confidence/alerts.
 ⚙️ ##Setup & Installation
 
 ->Clone the repository
+
 git clone https://github.com/ShubhamYadav1218/plant-recognition.git
 
 ->Navigate to backend folder
+
 cd backend
 
 ->Install dependencies
+
 npm install
 
 ->Create .env file and add your Gemini API key
+
 echo "GEMINI_API_KEY=your_api_key_here" > .env
 
 ->Run the server
+
 node server.js
 
 
