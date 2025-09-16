@@ -40,7 +40,7 @@ Calls Gemini API and returns AI-generated response.
 Frontend displays result clearly with confidence/alerts.
 
 ⚙️ Setup & Installation
-# Clone the repository
+## Clone the repository
 git clone https://github.com/ShubhamYadav1218/plant-recognition.git
 
 # Navigate to backend folder
