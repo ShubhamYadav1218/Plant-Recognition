@@ -6,16 +6,23 @@ A web-based tool that takes a text description of a plant and returns its name, 
 📌 Features
 
 ✅ Text-Based Plant Analysis – Enter a plant description and get instant insights.
+
 ✅ Ethical AI Design – Outputs are clearly marked as simulated or AI-generated.
+
 ✅ Fallback Mechanism – Uses a verified backend when AI is unavailable.
+
 ✅ Scalable Design – Ready to integrate Google Gemini API for real-time analysis.
+
 ✅ Clean UI – Built with Tailwind CSS for a modern, responsive interface.
 
 🛠️ Tech Stack
 
 Frontend: HTML, Tailwind CSS, Vanilla JavaScript
+
 Backend: Node.js, Express.js
+
 AI/Logic: Google Gemini API (planned integration) + Static JSON-based simulation
+
 Hosting (Optional): Can be deployed on Netlify (frontend) & Render/Heroku (backend)
 
 🔄 Functional Flow
@@ -34,7 +41,7 @@ Frontend displays result clearly with confidence/alerts.
 
 ⚙️ Setup & Installation
 # Clone the repository
-git clone https://github.com/your-username/plant-recognition.git
+git clone https://github.com/ShubhamYadav1218/plant-recognition.git
 
 # Navigate to backend folder
 cd backend
